@@ -1,4 +1,4 @@
-# Avalanche Student Hackathon Guide — Tanzania / Africa Edition 🇹🇿 🌍
+# Avalanche Student Hackathon Guide — Tanzania 🇹🇿
 
 > **Build useful blockchain solutions for real African problems.**
 >
