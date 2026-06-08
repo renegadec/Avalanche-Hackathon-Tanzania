@@ -1,6 +1,58 @@
-# Tanzania Student Avalanche Hackathon Guide
+# Avalanche Student Hackathon Guide — Tanzania / Africa Edition 🇹🇿 🌍
 
-> A practical builder guide for students learning blockchain and building useful solutions for Africa.
+> **Build useful blockchain solutions for real African problems.**
+>
+> A practical guide for student teams building on Avalanche — from choosing a track to submitting and pitching a working prototype.
+
+---
+
+## Navigation
+
+- [About](#about)
+- [Quick Links](#quick-links)
+- [Prize Pool](#prize-pool)
+- [Tracks](#tracks)
+  - [Track 1: Financial Inclusion & Payments](#track-1-financial-inclusion--payments)
+  - [Track 2: Education & Credentials](#track-2-education--credentials)
+  - [Track 3: Agriculture, Trade & Supply Chains](#track-3-agriculture-trade--supply-chains)
+  - [Track 4: Public Good, Identity & Community Services](#track-4-public-good-identity--community-services)
+  - [Track 5: Climate, Energy & Local Impact](#track-5-climate-energy--local-impact)
+  - [Open Innovation Track](#open-innovation-track)
+- [What Students Should Build](#what-students-should-build)
+- [Suggested Team Roles](#suggested-team-roles)
+- [Resources](#resources)
+- [Submit Your Project](#submit-your-project)
+- [Evaluation Criteria](#evaluation-criteria)
+- [Rules](#rules)
+- [Project Idea Bank](#project-idea-bank)
+- [Final Advice To Students](#final-advice-to-students)
+
+---
+
+## Quick Links
+
+| Resource | Link | Use it for |
+|---|---|---|
+| **Avalanche Builder Hub** | [build.avax.network](https://build.avax.network) | Builder resources, event inspiration, and ecosystem learning. |
+| **Avalanche Console** | [build.avax.network/console](https://build.avax.network/console) | Building, deploying, and managing Avalanche projects and L1 experiments. |
+| **Avalanche Docs** | [docs.avax.network](https://docs.avax.network) | Official technical documentation and developer guides. |
+| **Avalanche Academy** | [academy.avax.network](https://academy.avax.network) | Structured learning for Avalanche and blockchain concepts. |
+| **Core Wallet** | [core.app](https://core.app) | Wallet setup and interacting with Avalanche apps. |
+| **Avalanche Faucet** | [core.app/tools/testnet-faucet](https://core.app/tools/testnet-faucet) | Get test AVAX for building and testing on Avalanche testnet. |
+| **GitHub** | [github.com](https://github.com) | Host your code, README, and submission repo. |
+
+---
+
+## At A Glance
+
+| Item | Details |
+|---|---|
+| **Who should join?** | Student teams learning blockchain and Web3. |
+| **Main challenge** | Build a useful Avalanche/blockchain prototype for a real African problem. |
+| **Recommended team size** | 3–5 students. |
+| **Prize pool** | **$1,000 total**. |
+| **Best project style** | Small, working, clear, and easy to demo. |
+| **Winning mindset** | Solve a real problem, use Avalanche meaningfully, explain it simply. |
 
 ---
 
@@ -26,9 +78,9 @@ This is a student hackathon, so judges will reward clarity, effort, learning, te
 
 ## Prize Pool
 
-**Total Grand Prize: $1,000**
+**Total prize pool: $1,000**
 
-The $1,000 prize should reward the strongest overall projects while still encouraging students to build across different real-world African problem areas.
+The $1,000 prize pool rewards the strongest overall project while still encouraging teams to build across different real-world African problem areas.
 
 ### Recommended Prize Structure
 
@@ -72,19 +124,21 @@ If there are many teams, judges can also recognize non-cash awards:
 
 ## Tracks
 
-Tracks are suggested directions to help teams choose a problem. Teams may build outside these tracks, but projects that address practical African challenges will be especially encouraged.
+Choose a track based on the problem your team wants to solve. The best projects will not just mention Africa — they will show a real understanding of African users, constraints, and opportunities.
+
+> **Tip:** Start with the problem, not the technology. Then ask: where does Avalanche make this better?
 
 ---
 
-# Track 1: Financial Inclusion & Payments
+## Track 1: Financial Inclusion & Payments
 
-## Theme
+### Theme
 
 Build tools that make money movement, savings, payments, or financial access easier, cheaper, safer, or more transparent.
 
 Across Africa, many people rely on mobile money, cash, informal savings groups, cross-border remittances, and small business transactions. Blockchain can help with transparency, programmable rules, faster settlement, and digital ownership.
 
-## Example Problems
+### Example Problems
 
 - High cost of sending money across borders.
 - Lack of transparent savings group records.
@@ -93,7 +147,7 @@ Across Africa, many people rely on mobile money, cash, informal savings groups, 
 - Students or communities collecting funds without accountability.
 - Delayed payouts for freelancers, creators, or vendors.
 
-## Project Ideas
+### Project Ideas
 
 - A transparent digital savings group/chama platform.
 - A student contribution tracker for clubs, events, or societies.
@@ -103,7 +157,7 @@ Across Africa, many people rely on mobile money, cash, informal savings groups, 
 - A freelancer milestone payment prototype.
 - A micro-invoice and payment proof tool for small businesses.
 
-## Avalanche Fit
+### How Avalanche Fits
 
 Teams can use Avalanche to:
 
@@ -114,7 +168,7 @@ Teams can use Avalanche to:
 - Explore stablecoin-style settlement ideas.
 - Build fast and low-cost dApps.
 
-## What Judges Want To See
+### What Judges Want To See
 
 - A clear explanation of the financial problem.
 - A simple user flow.
@@ -124,15 +178,15 @@ Teams can use Avalanche to:
 
 ---
 
-# Track 2: Education & Credentials
+## Track 2: Education & Credentials
 
-## Theme
+### Theme
 
 Build tools that help students, schools, training programs, or employers verify learning, achievements, certificates, and skills.
 
 Many students in Africa face challenges proving skills, sharing certificates, or building trusted portfolios. Blockchain can help create verifiable records that are harder to fake and easier to share.
 
-## Example Problems
+### Example Problems
 
 - Fake certificates.
 - Difficulty verifying short-course achievements.
@@ -141,7 +195,7 @@ Many students in Africa face challenges proving skills, sharing certificates, or
 - Employers struggling to verify learning history.
 - Training programs needing digital certificates.
 
-## Project Ideas
+### Project Ideas
 
 - Verifiable certificate system for course completion.
 - Blockchain-based student project portfolio.
@@ -150,7 +204,7 @@ Many students in Africa face challenges proving skills, sharing certificates, or
 - Attendance and participation record system.
 - Employer verification portal for student credentials.
 
-## Avalanche Fit
+### How Avalanche Fits
 
 Teams can use Avalanche to:
 
@@ -160,7 +214,7 @@ Teams can use Avalanche to:
 - Create student-owned digital portfolios.
 - Demonstrate how credentials can be trusted without relying only on paper documents.
 
-## What Judges Want To See
+### What Judges Want To See
 
 - A real education or employability problem.
 - A simple credential issuing and verification flow.
@@ -170,15 +224,15 @@ Teams can use Avalanche to:
 
 ---
 
-# Track 3: Agriculture, Trade & Supply Chains
+## Track 3: Agriculture, Trade & Supply Chains
 
-## Theme
+### Theme
 
 Build tools that improve trust, traceability, coordination, or payments in agriculture, logistics, small trade, or supply chains.
 
 Agriculture and trade are central to many African economies. Farmers, suppliers, transporters, buyers, and small businesses often deal with poor records, delayed payments, fake products, and weak traceability.
 
-## Example Problems
+### Example Problems
 
 - Farmers lacking trusted records for produce delivery.
 - Buyers not knowing where goods came from.
@@ -187,7 +241,7 @@ Agriculture and trade are central to many African economies. Farmers, suppliers,
 - Poor coordination between farmers, transporters, and markets.
 - Lack of transparent cooperative records.
 
-## Project Ideas
+### Project Ideas
 
 - Farm-to-market produce tracking prototype.
 - Cooperative contribution and produce record system.
@@ -197,7 +251,7 @@ Agriculture and trade are central to many African economies. Farmers, suppliers,
 - Digital receipt system for informal traders.
 - Traceability tool for coffee, tea, maize, rice, fish, or minerals.
 
-## Avalanche Fit
+### How Avalanche Fits
 
 Teams can use Avalanche to:
 
@@ -208,7 +262,7 @@ Teams can use Avalanche to:
 - Build payment or escrow logic.
 - Create tamper-resistant records for trade flows.
 
-## What Judges Want To See
+### What Judges Want To See
 
 - A practical trade or agriculture use case.
 - A simple traceability or record-keeping demo.
@@ -218,15 +272,15 @@ Teams can use Avalanche to:
 
 ---
 
-# Track 4: Public Good, Identity & Community Services
+## Track 4: Public Good, Identity & Community Services
 
-## Theme
+### Theme
 
 Build tools that improve access, transparency, coordination, or accountability in communities, public services, civic activities, or identity-based systems.
 
 Many African communities face problems around record keeping, identity, service access, public trust, and accountability. Blockchain can help when many people need to verify shared records without depending on one trusted party.
 
-## Example Problems
+### Example Problems
 
 - Lack of trusted community project records.
 - Difficulty tracking donations or local development funds.
@@ -235,7 +289,7 @@ Many African communities face problems around record keeping, identity, service 
 - Community voting or decision-making needing accountability.
 - Local organizations needing proof of service delivery.
 
-## Project Ideas
+### Project Ideas
 
 - Transparent community donation tracker.
 - Student association voting prototype.
@@ -245,7 +299,7 @@ Many African communities face problems around record keeping, identity, service 
 - Local service request and resolution tracker.
 - Identity-lite system for verified community participation.
 
-## Avalanche Fit
+### How Avalanche Fits
 
 Teams can use Avalanche to:
 
@@ -255,7 +309,7 @@ Teams can use Avalanche to:
 - Create public audit trails.
 - Build transparent community dashboards.
 
-## What Judges Want To See
+### What Judges Want To See
 
 - Clear public or community benefit.
 - Strong explanation of who uses the system.
@@ -265,15 +319,15 @@ Teams can use Avalanche to:
 
 ---
 
-# Track 5: Climate, Energy & Local Impact
+## Track 5: Climate, Energy & Local Impact
 
-## Theme
+### Theme
 
 Build tools that support climate resilience, clean energy, recycling, environmental monitoring, or local impact tracking.
 
 Africa faces major challenges around energy access, climate adaptation, water, waste, and environmental change. Blockchain can help coordinate incentives, track impact, verify contributions, and improve transparency.
 
-## Example Problems
+### Example Problems
 
 - Poor tracking of tree planting or environmental projects.
 - Lack of transparent records for recycling initiatives.
@@ -282,7 +336,7 @@ Africa faces major challenges around energy access, climate adaptation, water, w
 - Donors needing proof of impact.
 - Students wanting to organize green campus activities.
 
-## Project Ideas
+### Project Ideas
 
 - Tree planting verification and rewards system.
 - Campus recycling rewards app.
@@ -292,7 +346,7 @@ Africa faces major challenges around energy access, climate adaptation, water, w
 - Carbon-awareness education game.
 - Local clean-up proof and reward platform.
 
-## Avalanche Fit
+### How Avalanche Fits
 
 Teams can use Avalanche to:
 
@@ -302,7 +356,7 @@ Teams can use Avalanche to:
 - Create incentive systems.
 - Build transparent dashboards for community projects.
 
-## What Judges Want To See
+### What Judges Want To See
 
 - A specific environmental or local impact problem.
 - A simple verification method.
@@ -406,185 +460,28 @@ Small teams can combine roles.
 
 ## Resources
 
-Use these resources during the hackathon.
-
-### Avalanche Documentation
-
-https://docs.avax.network
-
-Use this for:
-
-- Avalanche basics.
-- Smart contract deployment.
-- Network details.
-- Developer guides.
-
-### Avalanche Builder Hub
-
-https://build.avax.network
-
-Use this for:
-
-- Builder resources.
-- Events.
-- Developer learning paths.
-- Ecosystem inspiration.
-
-### Avalanche Academy
-
-Use this for structured learning around Avalanche, blockchain concepts, and practical development.
-
-### Avalanche Faucet
-
-Use the Avalanche faucet to get test tokens for deploying and testing smart contracts on testnet.
-
-### Suggested Developer Tools
-
-- Remix IDE for beginner smart contract development.
-- MetaMask or Core Wallet for wallet connection.
-- Hardhat or Foundry for more advanced smart contract work.
-- React, Next.js, or simple HTML/CSS/JavaScript for frontend.
-- GitHub for code hosting.
-- Canva, Google Slides, or PowerPoint for pitch decks.
-
----
-
-## Schedule Template
-
-Use this as a suggested structure. Adjust times based on the actual event.
-
-## Day 1 — Kickoff, Team Formation & Problem Selection
-
-### Opening & Welcome
-
-Introduce the hackathon, goals, prize pool, rules, tracks, and judging criteria.
-
-### Intro Workshop: Building on Avalanche
-
-Cover:
-
-- What Avalanche is.
-- Why fast, low-cost blockchain matters.
-- Wallets and test tokens.
-- Smart contracts.
-- Example dApps.
-- How to submit.
-
-### Team Formation
-
-Students form teams of 3–5 people.
-
-Encourage balanced teams:
-
-- At least one technical builder.
-- One person focused on problem research.
-- One person focused on presentation/design.
-
-### Problem Selection
-
-Teams choose one track and define:
-
-- Who has the problem?
-- Why does it matter in Africa?
-- How is it solved today?
-- What does blockchain improve?
-- What can be built in the hackathon time?
-
-### Hacking Begins
-
-Teams create a basic project plan:
-
-- Project name.
-- Track.
-- Problem statement.
-- User flow.
-- Smart contract idea.
-- Demo goal.
-
----
-
-## Day 2 — Build, Test & Mentor Check-ins
-
-### Morning Standup
-
-Each team answers:
-
-- What are we building?
-- What did we complete?
-- What is blocking us?
-- What must work by demo time?
-
-### Build Sprint 1
-
-Teams focus on:
-
-- Smart contract or core logic.
-- Basic frontend.
-- Wallet/testnet setup.
-- GitHub repo.
-
-### Mentor Check-in
-
-Mentors help teams reduce scope.
-
-Important question:
-
-> What is the smallest version of this idea that can be demoed clearly?
-
-### Build Sprint 2
-
-Teams connect the demo flow:
-
-- User opens app.
-- User performs action.
-- Smart contract records or verifies something.
-- App shows result.
-
-### Pitch Workshop
-
-Students prepare a short pitch:
-
-1. Problem.
-2. Target users.
-3. Solution.
-4. Demo.
-5. Why Avalanche/blockchain?
-6. Impact in Africa.
-7. What comes next.
-
----
-
-## Day 3 — Final Build, Submissions & Demos
-
-### Final Build Sprint
-
-Teams fix bugs, simplify UI, and prepare demo.
-
-Do not add big new features on the final morning. Make the current demo work.
-
-### Submission Deadline
-
-Teams submit:
-
-- GitHub repository.
-- Pitch slides.
-- Demo link or screenshots.
-- Short project description.
-- Team members.
-- Track selected.
-
-### Demo Presentations
-
-Each team gets 3–5 minutes:
-
-- 1 minute: problem and users.
-- 1 minute: solution.
-- 1–2 minutes: live demo or recorded demo.
-- 1 minute: Avalanche use and next steps.
-
-### Judging & Awards
-
-Judges score projects, select track winners, and award the Grand Prize.
+Use these Avalanche-first resources during the hackathon.
+
+| Resource | Link | Best for |
+|---|---|---|
+| **Avalanche Builder Hub** | [build.avax.network](https://build.avax.network) | Finding builder resources, guides, and inspiration from the Avalanche ecosystem. |
+| **Avalanche Console** | [build.avax.network/console](https://build.avax.network/console) | Building and managing Avalanche projects, including smart contract and L1-related workflows. |
+| **Avalanche Documentation** | [docs.avax.network](https://docs.avax.network) | Official guides for Avalanche concepts, networks, smart contracts, and developer tooling. |
+| **Avalanche Academy** | [academy.avax.network](https://academy.avax.network) | Structured learning for students who want to understand Avalanche better. |
+| **Core Wallet** | [core.app](https://core.app) | Wallet setup, network interaction, and using Avalanche as taught in the course. |
+| **Avalanche Testnet Faucet** | [core.app/tools/testnet-faucet](https://core.app/tools/testnet-faucet) | Getting test AVAX for deployments and transactions. |
+| **GitHub** | [github.com](https://github.com) | Hosting your code, README, screenshots, and submission materials. |
+| **Google Slides / Canva / PowerPoint** | [slides.google.com](https://slides.google.com) / [canva.com](https://www.canva.com) | Creating your final pitch deck. |
+
+### Recommended Tooling Approach
+
+Keep the tooling simple and aligned with what students have learned:
+
+- Use **Core Wallet** for wallet setup and Avalanche interaction.
+- Use **Avalanche Console** and **Avalanche Docs** as the main Avalanche build references.
+- Use **GitHub** for your project repository and README.
+- Use a simple frontend stack if needed: HTML/CSS/JavaScript, React, or Next.js.
+- Use presentation tools like Google Slides, Canva, or PowerPoint for your pitch.
 
 ---
 
