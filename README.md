@@ -19,7 +19,6 @@
   - [Track 5: Climate, Energy & Local Impact](#track-5-climate-energy--local-impact)
   - [Open Innovation Track](#open-innovation-track)
 - [What Students Should Build](#what-students-should-build)
-- [Suggested Team Roles](#suggested-team-roles)
 - [Resources](#resources)
 - [Submit Your Project](#submit-your-project)
 - [Evaluation Criteria](#evaluation-criteria)
@@ -415,46 +414,6 @@ Build: “A product journey tracker showing farm, transporter, buyer, and consum
 Instead of building: “A national education credential platform”
 
 Build: “A course certificate issuer and verifier for one bootcamp.”
-
----
-
-## Suggested Team Roles
-
-Each team should divide responsibilities clearly.
-
-### Product Lead
-
-- Defines the problem.
-- Keeps the team focused.
-- Prepares the pitch story.
-- Makes sure the project solves a real user need.
-
-### Smart Contract / Blockchain Developer
-
-- Builds or adapts the smart contract.
-- Deploys to Avalanche testnet.
-- Connects blockchain logic to the app.
-
-### Frontend Developer
-
-- Builds the user interface.
-- Connects buttons/forms to the smart contract or mock backend.
-- Makes the demo easy to understand.
-
-### Research & Documentation Lead
-
-- Researches the problem.
-- Writes the README.
-- Explains the African context.
-- Helps prepare slides and demo notes.
-
-### Pitch Lead
-
-- Presents the final project.
-- Explains the problem, solution, demo, and next steps.
-- Keeps the pitch clear and within time.
-
-Small teams can combine roles.
 
 ---
 
