@@ -1,4 +1,4 @@
-
+# Avalanche Student Hackathon Guide - Tanzania 🇹🇿
 
 > **Build useful blockchain solutions for real African problems.**
 >
@@ -41,6 +41,13 @@
 | **GitHub** | [github.com](https://github.com) | Host your code, README, and submission repo. |
 
 ---
+
+## Submissions
+
+### Due Date: 22 June 2026
+
+Submission Form: [Google Form](https://forms.gle/HNEX5j9iMM4HssVdA)
+
 
 ## At A Glance
 
