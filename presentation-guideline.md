@@ -92,7 +92,7 @@ Practice until your team can do it in under 10 minutes.
 
 ## Common Mistakes To Avoid
 
-❌ Reading from slides — talk to the judges, not the screen.
+❌ Reading from slides — show that you know what you are talking about.
 
 ❌ Explaining blockchain basics — assume judges know what blockchain is. Focus on your project.
 
