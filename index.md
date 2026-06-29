@@ -25,6 +25,7 @@
 - [Rules](#rules)
 - [Project Idea Bank](#project-idea-bank)
 - [Final Advice To Students](#final-advice-to-students)
+- [Presentation Guideline](/presentation-guideline/)
 
 ---
 
@@ -438,7 +439,8 @@ Use these Avalanche-first resources during the hackathon.
 | **Core Wallet** | [core.app](https://core.app) | Wallet setup, network interaction, and using Avalanche as taught in the course. |
 | **Avalanche Testnet Faucet** | [core.app/tools/testnet-faucet](https://core.app/tools/testnet-faucet) | Getting test AVAX for deployments and transactions. |
 | **GitHub** | [github.com](https://github.com) | Hosting your code, README, screenshots, and submission materials. |
-| **Google Slides / Canva / PowerPoint** | [slides.google.com](https://slides.google.com) / [canva.com](https://www.canva.com) | Creating your final pitch deck. |
+| **Google Slides / Canva / PowerPoint** | [slides.google.com](https://slides.google.com) / [canva.com](https://www.canva.com) | Creating your final pitch deck.
+| **Presentation Guideline** | [presentation-guideline](/presentation-guideline/) | How to structure your hackathon project pitch and demo. |
 
 ### Recommended Tooling Approach
 
