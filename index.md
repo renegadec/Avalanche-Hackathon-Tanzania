@@ -26,6 +26,7 @@
 - [Project Idea Bank](#project-idea-bank)
 - [Final Advice To Students](#final-advice-to-students)
 - [Presentation Guideline](/presentation-guideline/)
+- [Presentation Schedule](/schedule/)
 
 ---
 
