@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Presentation Schedule
+permalink: /schedule/
 ---
 
 # Presentation Schedule — 30 June 2026
