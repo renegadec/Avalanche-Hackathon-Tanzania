@@ -30,6 +30,7 @@ permalink: /schedule/
 ## By Track
 
 ### Track 1: Financial Inclusion & Payments
+
 | Group | Time | Project | Team Leader |
 |---|---|---|---|
 | 1 | 15:40 – 15:50 | ChamaTrust | BENJAMIN EDWARD |
@@ -40,6 +41,7 @@ permalink: /schedule/
 | 11 | 17:20 – 17:30 | ChainChama | AIM'FIZ AHMED IBRAHIM |
 
 ### Track 2: Education & Credentials
+
 | Group | Time | Project | Team Leader |
 |---|---|---|---|
 | 4 | 16:10 – 16:20 | TrustDegree | AIMFIZ AHMED IBRAHIM |
@@ -49,11 +51,13 @@ permalink: /schedule/
 | 14 | 17:50 – 18:00 | EduProof Tanzania | Godwin Shirma |
 
 ### Track 3: Agriculture, Trade & Supply Chains
+
 | Group | Time | Project | Team Leader |
 |---|---|---|---|
 | 2 | 15:50 – 16:00 | MazaoTrace | Hillary Mrema |
 
 ### Track 4: Public Good, Identity & Community Services
+
 | Group | Time | Project | Team Leader |
 |---|---|---|---|
 | 3 | 16:00 – 16:10 | club-membership | AIMFIZ AIMFIZ AHMED |
